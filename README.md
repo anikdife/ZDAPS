@@ -1,5 +1,5 @@
 # ZDAPS
-Zero day attach prevention system using AI
+Zero day attack prevention system using AI
 Installation process:
 The steps are:
 1. git clone github.com:anikdife/ZDAPS.git
